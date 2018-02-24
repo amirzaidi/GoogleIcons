@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Template
+    <item component="ComponentInfo{}" drawable="calendar" />
+    <calendar component="ComponentInfo{}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{}" drawable="calculator" />
+    <item component="ComponentInfo{}" drawable="camera"/>
+    <item component="ComponentInfo{}" drawable="clock" />
+    <item component="ComponentInfo{}" drawable="contacts" />
+    <item component="ComponentInfo{}" drawable="dialer" />
+    <item component="ComponentInfo{}" drawable="downloads" />
+    <item component="ComponentInfo{}" drawable="mail" />
+    <item component="ComponentInfo{}" drawable="files" />
+    <item component="ComponentInfo{}" drawable="gallery" />
+    <item component="ComponentInfo{}" drawable="messages" />
+    <item component="ComponentInfo{}" drawable="notes" />
+    <item component="ComponentInfo{}" drawable="settings" />
+    -->
+
+    <!-- Global -->
+    <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="downloads" />
+    <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
+    <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
+
+    <!-- HTC -->
+    <!-- Huawei -->
+    <!-- LG -->
+    <!-- Lenovo -->
+    <!-- Motorola -->
+    <!-- Nokia -->
+
+    <!-- OnePlus -->
+    <item component="ComponentInfo{com.oneplus.calculator/.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.oneplus.camera/.OPCameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="dialer" />
+    <item component="ComponentInfo{com.oneplus.filemanager/.HomePageActivity}" drawable="files" />
+    <item component="ComponentInfo{com.oneplus.gallery/.OPGalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.oneplus.note/.ui.MainActivity}" drawable="notes" />
+
+    <!-- Samsung -->
+    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/.ClockPackage}" drawable="clock" />
+    <item component="ComponentInfo{}" drawable="contacts" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="dialer" />
+    <item component="ComponentInfo{}" drawable="mail" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/.common.MainActivity}" drawable="files" />
+    <item component="ComponentInfo{com.sec.android.gallery3d/.app.GalleryOpaqueActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
+    <item component="ComponentInfo{com.samsung.android.app.notes/.memolist.MemoListActivity}" drawable="notes" />
+
+    <!-- Sony -->
+    <!-- Xiaomi -->
+</resources>

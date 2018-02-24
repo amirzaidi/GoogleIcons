@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default_light">#ff4285f4</color>
+    <color name="downloads_icon_background">#ff4b4b4b</color>
+    <color name="files_app_icon_background">#ff4688f2</color>
+    <color name="gallery_quantum_white_100">#ffffffff</color>
+    <color name="mail_adaptive_background">#ffffffff</color>
+    <color name="messages_ic_launcher_background">#ff2a56c6</color>
+    <color name="notes_primary_color">#ffffbb00</color>
+</resources>
