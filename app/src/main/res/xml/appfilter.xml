@@ -18,6 +18,8 @@
     -->
 
     <!-- Global -->
+    <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.contacts/.activities.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.dialer/.DialtactsActivity}" drawable="dialer" />
@@ -70,10 +72,22 @@
     <item component="ComponentInfo{com.sonyericsson.android.camera/.CameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.sonyericsson.organizer/.Organizer}" drawable="clock" />
     <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.sonymobile.email/.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{com.sonyericsson.album/.MainActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.sonyericsson.conversations/.ui.ConversationListActivity}" drawable="messages" />
 
     <!-- Xiaomi -->
+    <item component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.miui.calculator/.cal.CalculatorActivity}" drawable="calculator" />
+    <item component="ComponentInfo{com.android.camera/.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.deskclock/.DeskClockTabActivity}" drawable="clock" />
+    <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.fileexplorer/.FileExplorerTabActivity}" drawable="files" />
+    <item component="ComponentInfo{com.miui.gallery/.activity.HomePageActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.mms/.ui.MmsTabActivity}" drawable="messages" />
+    <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.android.settings/.MainSettings}" drawable="settings" />
 </resources>
