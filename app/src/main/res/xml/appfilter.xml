@@ -21,10 +21,8 @@
     <dynamic-clock drawable="clock"
         hourLayerIndex="0"
         minuteLayerIndex="1"
-        secondLayerIndex="2"
         defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30" />
+        defaultMinute="10" />
 
     <!-- Global -->
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />

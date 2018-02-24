@@ -17,9 +17,6 @@
             <item>
                 <rotate android:drawable="@mipmap/clock_minute" android:fromDegrees="60.0" android:toDegrees="60060.0" android:pivotX="50.0%" android:pivotY="50.0%" />
             </item>
-            <item>
-                <rotate android:drawable="@mipmap/clock_second" android:fromDegrees="180.0" android:toDegrees="6180.0" android:pivotX="50.0%" android:pivotY="50.0%" android:level="300" />
-            </item>
             <item android:drawable="@mipmap/clock_top" />
         </layer-list>
     </foreground>
