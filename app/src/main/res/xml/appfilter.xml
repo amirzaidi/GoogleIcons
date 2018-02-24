@@ -45,14 +45,22 @@
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.sec.android.app.clockpackage/.ClockPackage}" drawable="clock" />
-    <item component="ComponentInfo{}" drawable="contacts" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="dialer" />
-    <item component="ComponentInfo{}" drawable="mail" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="mail" />
     <item component="ComponentInfo{com.sec.android.app.myfiles/.common.MainActivity}" drawable="files" />
     <item component="ComponentInfo{com.sec.android.gallery3d/.app.GalleryOpaqueActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages" />
     <item component="ComponentInfo{com.samsung.android.app.notes/.memolist.MemoListActivity}" drawable="notes" />
 
     <!-- Sony -->
+    <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/.CameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{com.sonyericsson.organizer/.Organizer}" drawable="clock" />
+    <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="dialer" />
+    <item component="ComponentInfo{com.sonyericsson.album/.MainActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.sonyericsson.conversations/.ui.ConversationListActivity}" drawable="messages" />
+    
     <!-- Xiaomi -->
 </resources>
