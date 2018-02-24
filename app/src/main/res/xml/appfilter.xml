@@ -59,6 +59,7 @@
 
     <!-- Huawei -->
     <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.deskclock/.AlarmsMainActivity}" drawable="clock" />
     <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.huawei.hidisk/.filemanager.FileManager}" drawable="files" />
     <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery" />
