@@ -25,16 +25,55 @@
     <item component="ComponentInfo{com.android.dialer/.DialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.android.documentsui/.LauncherActivity}" drawable="downloads" />
     <item component="ComponentInfo{com.android.providers.downloads/.ui.DownloadList}" drawable="downloads" />
-    <item component="ComponentInfo{com.oppo.gallery3d/.app.Gallery}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.gallery3d/.app.Gallery}" drawable="gallery" />
     <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
 
     <!-- HTC -->
+    <item component="ComponentInfo{com.htc.calendar/.CalendarActivityMain}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.htc.calendar/.CalendarActivityMain}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.htc.camera2/.CameraEntry, com.htc.camera/.CameraEntry}" drawable="camera"/>
+    <item component="ComponentInfo{com.htc.android.worldclock/.WorldClockTabControl}" drawable="clock" />
+    <item component="ComponentInfo{com.htc.contacts/.BrowseLayerCarouselActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.incallui/.DialerLauncher}" drawable="dialer" />
+    <item component="ComponentInfo{com.htc.android.mail/.MultipleActivitiesMain}" drawable="mail" />
+    <item component="ComponentInfo{com.htc.filemanager/.FileManagerActivity}" drawable="files" />
+    <item component="ComponentInfo{com.htc.album/.AlbumMain.ActivityMainTabHost}" drawable="gallery" />
+    <item component="ComponentInfo{com.htc.album/com.htc.photoenhancer.LandingPage}" drawable="gallery" />
+    <item component="ComponentInfo{com.htc.sense.mms/.ui.ConversationList}" drawable="messages" />
+
     <!-- Huawei -->
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.contacts/.activities.DialtactsActivity}" drawable="dialer" />
+    <item component="ComponentInfo{com.huawei.hidisk/.filemanager.FileManager}" drawable="files" />
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery" />
+    <item component="ComponentInfo{com.example.android.notepad/.NotePadActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.android.settings/.HWSettings}" drawable="settings" />
+
     <!-- LG -->
+    <item component="ComponentInfo{com.lge.camera/.CameraAppLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.lge.clock/.AlarmClockActivity}" drawable="clock" />
+    <item component="ComponentInfo{com.lge.email/.ui.setupwizard.Welcome}" drawable="mail" />
+    <item component="ComponentInfo{com.lge.filemanager/.view.LaunchActivity}" drawable="files" />
+    <item component="ComponentInfo{com.android.gallery3d/.app.Gallery}" drawable="gallery" />
+    <item component="ComponentInfo{com.lge.qmemoplus/.ui.main.MainActivity}" drawable="notes" />
+
     <!-- Lenovo -->
+    <item component="ComponentInfo{com.lenovo.scg/.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.lenovo.deskclock/.DeskClock}" drawable="clock" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/.alias.DialtactsActivity}" drawable="contacts" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser/.activities.FileBrowserMain}" drawable="files" />
+    <item component="ComponentInfo{com.lenovo.gallery/.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="messages" />
+
     <!-- Motorola -->
-    <!-- Nokia -->
+    <item component="ComponentInfo{com.motorola.camera/.Camera" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="files" />
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
 
     <!-- OnePlus -->
     <item component="ComponentInfo{com.oneplus.calculator/.Calculator}" drawable="calculator" />
