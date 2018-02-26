@@ -154,4 +154,8 @@
     <item component="ComponentInfo{com.android.mms/.ui.MmsTabActivity}" drawable="messages" />
     <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="notes" />
     <item component="ComponentInfo{com.android.settings/.MainSettings}" drawable="settings" />
+
+    <!-- LineageOS -->
+    <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
+    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
 </resources>
