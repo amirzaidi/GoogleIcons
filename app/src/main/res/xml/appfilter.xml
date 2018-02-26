@@ -26,6 +26,7 @@
         defaultMinute="10" />
 
     <!-- Global -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
