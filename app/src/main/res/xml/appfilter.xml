@@ -25,6 +25,17 @@
         defaultHour="10"
         defaultMinute="10" />
 
+    <!-- Iris UI Clock -->
+    <dynamic-clock drawable="clock2"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock2" />
+
     <!-- Global -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
