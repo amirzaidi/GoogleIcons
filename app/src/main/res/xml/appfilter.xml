@@ -148,7 +148,7 @@
     <calendar component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.miui.calculator/.cal.CalculatorActivity}" drawable="calculator" />
     <item component="ComponentInfo{com.android.deskclock/.DeskClockTabActivity}" drawable="clock" />
-    <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="contacts" />
+    <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="dialer" />
     <item component="ComponentInfo{com.android.fileexplorer/.FileExplorerTabActivity}" drawable="files" />
     <item component="ComponentInfo{com.miui.gallery/.activity.HomePageActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.mms/.ui.MmsTabActivity}" drawable="messages" />
@@ -157,5 +157,5 @@
 
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
-    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
 </resources>
