@@ -57,6 +57,9 @@
     <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
 
+    <!-- Essential -->
+    <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />
+
     <!-- Mediatek -->
     <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.mediatek.filemanager/.FileManagerOperationActivity}" drawable="files" />
@@ -130,6 +133,7 @@
 
     <!-- Samsung -->
     <item component="ComponentInfo{com.sec.android.app.sbrowser/.SBrowserMainActivity}" drawable="browser" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sec.android.app.calculator/.calculator.Calculator}" drawable="calculator" />
