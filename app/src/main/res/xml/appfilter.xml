@@ -113,6 +113,10 @@
     <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="messages" />
 
+    <!-- Nextbit -->
+    <item component="ComponentInfo{com.nextbit.camera/.ui.CameraActivity}" drawable="camera" />
+    <item component="ComponentInfo{com.nextbit.gallery/.main.MainActivity}" drawable="gallery" />
+
     <!-- OnePlus -->
     <item component="ComponentInfo{com.oneplus.calculator/.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.oneplus.camera/.OPCameraActivity}" drawable="camera"/>
