@@ -43,6 +43,7 @@
     <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.android.camera/.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/.CameraEntry}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.android.deskclock/.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.android.contacts/.activities.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.dialer/.DialtactsActivity}" drawable="dialer" />
@@ -56,6 +57,9 @@
     <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
+
+    <!-- Apps -->
+    <item component="ComponentInfo{com.kabouzeid.gramophone/.ui.activities.MainActivity}" drawable="phonograph" />
 
     <!-- Essential -->
     <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />
