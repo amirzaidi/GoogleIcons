@@ -61,6 +61,8 @@
 
     <!-- Apps -->
     <item component="ComponentInfo{com.kabouzeid.gramophone/.ui.activities.MainActivity}" drawable="phonograph" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
 
     <!-- Essential -->
     <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />

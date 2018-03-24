@@ -7,4 +7,6 @@
     <color name="mail_adaptive_background">#ffffffff</color>
     <color name="messages_ic_launcher_background">#ff2a56c6</color>
     <color name="notes_primary_color">#ffffbb00</color>
+	<color name="telegram_background">#ff2ca5e0</color>
+	<color name="telegramx_background">#ff2f6284</color>
 </resources>
