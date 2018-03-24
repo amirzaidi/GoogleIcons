@@ -53,7 +53,6 @@
     <item component="ComponentInfo{com.android.email/.activity.Welcome}" drawable="mail" />
     <item component="ComponentInfo{com.android.gallery3d/.app.Gallery}" drawable="gallery" />
     <item component="ComponentInfo{com.android.gallery3d/.app.GalleryActivity}" drawable="gallery" />
-    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="messages" />
     <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
@@ -184,4 +183,8 @@
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+
+    <!-- CAF -->
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
 </resources>
