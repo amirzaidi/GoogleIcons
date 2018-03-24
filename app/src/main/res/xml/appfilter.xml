@@ -111,7 +111,7 @@
     <item component="ComponentInfo{com.lenovo.ideafriend/.alias.MmsActivity}" drawable="messages" />
 
     <!-- Motorola -->
-    <item component="ComponentInfo{com.motorola.camera/.Camera" drawable="camera" />
+    <item component="ComponentInfo{com.motorola.camera/.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="camera" />
