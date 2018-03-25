@@ -63,6 +63,7 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="translate" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files" />
 
     <!-- Essential -->
     <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />
