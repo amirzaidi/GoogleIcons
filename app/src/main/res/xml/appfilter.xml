@@ -64,7 +64,9 @@
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="translate" />
     <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files" />
+    <item component="ComponentInfo{com.google.android.talk/.SigningInActivity" drawable="hangouts" />
     <item component="ComponentInfo{com.intsig.camscanner/.WelcomeActivity}" drawable="camscanner" />
+    <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="spotify" />
     <item component="ComponentInfo{pl.allegro/.Allegro}" drawable="allegro" />
 
     <!-- Essential -->
