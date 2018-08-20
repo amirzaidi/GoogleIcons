@@ -105,6 +105,7 @@
 
     <!-- Lenovo -->
     <item component="ComponentInfo{com.lenovo.scg/.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.lenovo.deskclock/.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.lenovo.ideafriend/.alias.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.lenovo.ideafriend/.alias.DialtactsActivity}" drawable="dialer" />
@@ -178,6 +179,7 @@
     <item component="ComponentInfo{com.android.deskclock/.DeskClockTabActivity}" drawable="clock" />
     <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="dialer" />
     <item component="ComponentInfo{com.android.fileexplorer/.FileExplorerTabActivity}" drawable="files" />
+    <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files" />
     <item component="ComponentInfo{com.miui.gallery/.activity.HomePageActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.android.mms/.ui.MmsTabActivity}" drawable="messages" />
     <item component="ComponentInfo{com.miui.notes/.ui.NotesListActivity}" drawable="notes" />
