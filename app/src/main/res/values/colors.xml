@@ -11,4 +11,5 @@
 	<color name="telegramx_background">#ff2f6284</color>
     <color name="youtube_background">#FF0000</color>
     <color name="authy_background">#EC1C24</color>
+    <color name="analytics_background">#FAFAFA</color>
 </resources>
