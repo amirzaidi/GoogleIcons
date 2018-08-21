@@ -12,4 +12,5 @@
     <color name="youtube_background">#FF0000</color>
     <color name="authy_background">#EC1C24</color>
     <color name="analytics_background">#FAFAFA</color>
+    <color name="snapchat_background">#FFFC00</color>
 </resources>
