@@ -9,3 +9,6 @@ gradle/
 gradlew*
 /captures
 .externalNativeBuild
+.project
+.settings/
+.classpath
