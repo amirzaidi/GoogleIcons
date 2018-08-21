@@ -15,4 +15,6 @@
     <color name="snapchat_background">#FFFC00</color>
     <color name="linkedin_background">#137EB8</color>
     <color name="termux_background">#000000</color>
+    <color name="show_java_background">#FAFAFA</color>
+    <color name="dexplorer_background">#303030</color>
 </resources>
