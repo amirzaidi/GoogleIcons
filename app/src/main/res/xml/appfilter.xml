@@ -75,6 +75,8 @@
     <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="snapchat" />
     <item component="ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}" drawable="linkedin" />
     <item component="ComponentInfo{com.termux/.app.TermuxActivity}" drawable="termux" />
+    <item component="ComponentInfo{com.njlabs.showjava/.ui.Landing}" drawable="show_java" />
+    <item component="ComponentInfo{com.dexplorer/.activities.ApplicationSelectionActivity}" drawable="dexplorer" />
 
     <!-- Essential -->
     <item component="ComponentInfo{com.essential.klik/.Camera}" drawable="camera" />
