@@ -37,7 +37,6 @@
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock2" />
 
     <!-- Global -->
-    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
@@ -59,6 +58,11 @@
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
 
     <!-- Apps -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
+    <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="browser" />
+    <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="browser" />
+    <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="browser" />
+    <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.kabouzeid.gramophone/.ui.activities.MainActivity}" drawable="phonograph" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
