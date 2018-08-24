@@ -6,8 +6,8 @@ android {
         applicationId "amirz.googleicons"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 5
-        versionName "v5"
+        versionCode 6
+        versionName "v6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
