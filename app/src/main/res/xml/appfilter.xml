@@ -88,6 +88,7 @@
     <item component="ComponentInfo{com.soundcloud.creators/com.soundcloud.creators.MainActivity}" drawable="soundcloud_pulse" />
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
     <item component="ComponentInfo{com.spotify.s4a/.SplashActivity}" drawable="spotify_artists" />
+    <item component="ComponentInfo{com.freshdesk.helpdesk/.fdlogic.ui.activity.LoginActivity}" drawable="freshdesk" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
