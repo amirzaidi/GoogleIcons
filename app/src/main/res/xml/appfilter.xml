@@ -85,6 +85,8 @@
     <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
     <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="files" />
+    <item component="ComponentInfo{com.soundcloud.creators/com.soundcloud.creators.MainActivity}" drawable="soundcloud_pulse" />
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
