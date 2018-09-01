@@ -221,6 +221,7 @@
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
 
     <!-- CAF -->
     <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
