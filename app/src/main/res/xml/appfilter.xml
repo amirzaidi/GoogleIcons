@@ -84,6 +84,7 @@
     <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
     <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
     <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
+    <item component="ComponentInfo{pl.solidexplorer.SolidExplorer}" drawable="files" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
