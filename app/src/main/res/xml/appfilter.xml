@@ -84,6 +84,7 @@
     <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
     <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="files" />
+    <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
@@ -222,6 +223,7 @@
     <!-- LineageOS -->
     <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
 
     <!-- CAF -->
     <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
