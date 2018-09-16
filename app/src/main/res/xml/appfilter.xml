@@ -113,6 +113,7 @@
     <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ms_onenote" />
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="ms_onedrive" />
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
+    <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
