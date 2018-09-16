@@ -98,6 +98,7 @@
     <item component="ComponentInfo{com.amazon.dee.app/.Launcher}" drawable="alexa" />
     <item component="ComponentInfo{com.tinder/.activities.LoginActivity}" drawable="tinder" />
     <item component="ComponentInfo{com.tencent.mm/.ui.LauncherUI}" drawable="wechat" />
+    <item component="ComponentInfo{com.quora.android/.components.activities.LauncherActivity}" drawable="quora" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
