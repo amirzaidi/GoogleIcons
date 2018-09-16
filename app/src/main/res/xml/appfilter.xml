@@ -93,6 +93,7 @@
     <item component="ComponentInfo{com.instagram.layout/.LayoutActivity}" drawable="layout" />
     <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" />
     <item component="ComponentInfo{com.instagram.igtv/.main.MainActivity}" drawable="igtv" />
+    <item component="ComponentInfo{rs.pstech.scrumtimeplanningpoker/rs.pstech.scrumtimeplanningpoker.activities.SplashScreenActivity}" drawable="scrumtime" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
