@@ -20,4 +20,5 @@
     <color name="freshdesk_background">#25C16F</color>
     <color name="scrumtime_background">#607D8B</color>
     <color name="applemusic_background">#FFFFFF</color>
+    <color name="alexa_background">#00CAFF</color>
 </resources>
