@@ -92,6 +92,7 @@
     <item component="ComponentInfo{com.instagram.boomerang/.BoomerangActivity}" drawable="boomerang" />
     <item component="ComponentInfo{com.instagram.layout/.LayoutActivity}" drawable="layout" />
     <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.instagram.igtv/.main.MainActivity}" drawable="igtv" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
