@@ -99,6 +99,8 @@
     <item component="ComponentInfo{com.tinder/.activities.LoginActivity}" drawable="tinder" />
     <item component="ComponentInfo{com.tencent.mm/.ui.LauncherUI}" drawable="wechat" />
     <item component="ComponentInfo{com.quora.android/.components.activities.LauncherActivity}" drawable="quora" />
+    <item component="ComponentInfo{com.sina.weibo/.SplashActivity}" drawable="weibo" />
+    <item component="ComponentInfo{com.weico.international/.activity.LogoActivity}" drawable="weibo" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
