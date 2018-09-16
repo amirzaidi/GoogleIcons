@@ -103,6 +103,8 @@
     <item component="ComponentInfo{com.weico.international/.activity.LogoActivity}" drawable="weibo" />
     <item component="ComponentInfo{com.nianticproject.ingress/.NemesisActivity}" drawable="ingress" />
     <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
+    <item component="ComponentInfo{com.waterdaaan.cpufloat/.MainActivity}" drawable="cpufloat" />
+    <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
