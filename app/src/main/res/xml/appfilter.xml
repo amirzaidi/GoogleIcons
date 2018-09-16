@@ -96,6 +96,7 @@
     <item component="ComponentInfo{rs.pstech.scrumtimeplanningpoker/rs.pstech.scrumtimeplanningpoker.activities.SplashScreenActivity}" drawable="scrumtime" />
     <item component="ComponentInfo{com.apple.android.music/.onboarding.activities.SplashActivity}" drawable="applemusic" />
     <item component="ComponentInfo{com.amazon.dee.app/.Launcher}" drawable="alexa" />
+    <item component="ComponentInfo{com.tinder/.activities.LoginActivity}" drawable="tinder" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
