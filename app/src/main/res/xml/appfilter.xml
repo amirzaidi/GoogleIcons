@@ -107,6 +107,12 @@
     <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" />
     <item component="ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}" drawable="fb_messenger" />
     <item component="ComponentInfo{com.facebook.mlite/.coreui.view.MainActivity}" drawable="fb_messenger_lite" />
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_word" />
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_excel" />
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_powerpoint" />
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ms_onenote" />
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="ms_onedrive" />
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
