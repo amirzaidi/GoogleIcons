@@ -26,4 +26,6 @@
     <color name="weibo_background">#FAFAFA</color>
     <color name="ingress_background">#09AEED</color>
     <color name="pokemon_go_background">#FFFFFF</color>
+    <color name="cpufloat_background">#7C7C7C</color>
+    <color name="cpu_z_background">#4A2792</color>
 </resources>
