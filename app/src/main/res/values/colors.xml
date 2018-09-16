@@ -18,4 +18,5 @@
     <color name="show_java_background">#FAFAFA</color>
     <color name="dexplorer_background">#303030</color>
     <color name="freshdesk_background">#25C16F</color>
+    <color name="scrumtime_background">#607D8B</color>
 </resources>
