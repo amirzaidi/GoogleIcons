@@ -23,4 +23,5 @@
     <color name="alexa_background">#00CAFF</color>
     <color name="wechat_background">#2DC100</color>
     <color name="quora_background">#A72822</color>
+    <color name="weibo_background">#FAFAFA</color>
 </resources>
