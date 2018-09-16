@@ -25,4 +25,5 @@
     <color name="quora_background">#A72822</color>
     <color name="weibo_background">#FAFAFA</color>
     <color name="ingress_background">#09AEED</color>
+    <color name="pokemon_go_background">#FFFFFF</color>
 </resources>
