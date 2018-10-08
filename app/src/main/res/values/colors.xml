@@ -28,7 +28,8 @@
     <color name="pokemon_go_background">#FFFFFF</color>
     <color name="cpufloat_background">#7C7C7C</color>
     <color name="cpu_z_background">#4A2792</color>
-    <color name="fb_messenger_background">#FFFFFF</color>
+    <color name="fb_messenger_background">#0084FF</color>
+    <color name="fb_messenger_lite_background">#FFFFFF</color>
     <color name="ms_word_background">#2C5797</color>
     <color name="ms_excel_background">#207246</color>
     <color name="ms_powerpoint_background">#CE4627</color>
