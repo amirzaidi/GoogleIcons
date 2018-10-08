@@ -92,7 +92,6 @@
     <item component="ComponentInfo{com.instagram.boomerang/.BoomerangActivity}" drawable="boomerang" />
     <item component="ComponentInfo{com.instagram.layout/.LayoutActivity}" drawable="layout" />
     <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" />
-    <item component="ComponentInfo{com.instagram.igtv/.main.MainActivity}" drawable="igtv" />
     <item component="ComponentInfo{rs.pstech.scrumtimeplanningpoker/rs.pstech.scrumtimeplanningpoker.activities.SplashScreenActivity}" drawable="scrumtime" />
     <item component="ComponentInfo{com.apple.android.music/.onboarding.activities.SplashActivity}" drawable="applemusic" />
     <item component="ComponentInfo{com.amazon.dee.app/.Launcher}" drawable="alexa" />
