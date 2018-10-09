@@ -18,6 +18,11 @@
     <item component="ComponentInfo{}" drawable="settings" />
     -->
 
+    <!-- Config for Lawnchair and hopefully other launchers in the future to only mask legacy icons -->
+    <config onlyMaskLegacy="true" />
+    <!-- Icon mask background -->
+    <iconback img1="iconback" />
+
     <!-- Dynamic Clock -->
     <dynamic-clock drawable="clock"
         hourLayerIndex="0"

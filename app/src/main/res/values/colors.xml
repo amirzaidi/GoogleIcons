@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="iconback_background">#FAFAFA</color>
     <color name="accent_device_default_light">#ff4285f4</color>
     <color name="downloads_icon_background">#ff4b4b4b</color>
     <color name="files_app_icon_background">#ff4688f2</color>
