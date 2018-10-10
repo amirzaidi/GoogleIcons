@@ -113,6 +113,7 @@
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="ms_onedrive" />
     <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
     <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
+    <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="dialer" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
