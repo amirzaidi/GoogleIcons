@@ -120,6 +120,8 @@
     <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
     <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" />
     <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="dialer" />
+    <item component="ComponentInfo{com.globalegrow.app.gearbest/com.globalegrow.app.gearbest.SplashActivity}" drawable="gearbest" />
+    <item component="ComponentInfo{com.doodle.android/com.doodle.activities.SplashActivity}" drawable="doodle" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
