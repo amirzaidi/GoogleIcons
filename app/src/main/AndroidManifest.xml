@@ -8,6 +8,7 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="com.teslacoilsw.launcher.THEME" />
+                <action android:name="com.lineageos.trebuchet.THEME" />
             </intent-filter>
         </activity>
     </application>
