@@ -201,6 +201,7 @@
     <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.oneplus.filemanager/.HomePageActivity}" drawable="files" />
     <item component="ComponentInfo{com.oneplus.gallery/.OPGalleryActivity}" drawable="gallery" />
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.oneplus.note/.ui.MainActivity}" drawable="notes" />
 
     <!-- Oppo -->
