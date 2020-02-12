@@ -63,6 +63,7 @@
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
     <item component="ComponentInfo{com.kabouzeid.gramophone/.ui.activities.MainActivity}" drawable="phonograph" />
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
