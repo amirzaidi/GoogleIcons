@@ -268,6 +268,7 @@
     <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{org.lineageos.recorder/.RecorderActivity}" drawable="recorder" />
 
     <!-- CAF -->
     <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" />
@@ -280,4 +281,5 @@
     <item component="ComponentInfo{com.android.dialer/.main.impl.MainActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.mokee.gallery/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary}" drawable="gallery" />
     <item component="ComponentInfo{com.kabouzeid.gramophone.mokee/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
+    <item component="ComponentInfo{org.mokee.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder" />
 </resources>
