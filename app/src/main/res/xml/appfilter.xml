@@ -284,4 +284,5 @@
     <!-- Simple Mobile Tools -->
     <item component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.simplemobiletools.gallery.pro/.activities.SplashActivity.Orange}" drawable="gallery" />
 </resources>
