@@ -275,11 +275,13 @@
     <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
 
     <!-- Mokee -->
-    <item component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" drawable="calendar" />
-    <calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="logo_calendar_" />
     <item component="ComponentInfo{org.mokee.snap/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.android.dialer/.main.impl.MainActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.mokee.gallery/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary}" drawable="gallery" />
     <item component="ComponentInfo{com.kabouzeid.gramophone.mokee/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph" />
     <item component="ComponentInfo{org.mokee.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder" />
+
+    <!-- Simple Mobile Tools -->
+    <item component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" drawable="calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="logo_calendar_" />
 </resources>
