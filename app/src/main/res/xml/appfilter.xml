@@ -253,6 +253,9 @@
     <item component="ComponentInfo{com.sonyericsson.album/.MainActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.sonyericsson.conversations/.ui.ConversationListActivity}" drawable="messages" />
 
+    <!-- TCL -->
+    <item component="com.tcl.camera/com.android.camera.CameraLauncher}" drawable="camera" />
+
     <!-- Xiaomi -->
     <item component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/.homepage.AllInOneActivity}" prefix="logo_calendar_" />
