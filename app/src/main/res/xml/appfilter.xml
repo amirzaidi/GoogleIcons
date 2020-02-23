@@ -56,7 +56,6 @@
     <item component="ComponentInfo{com.android.mms/.ui.ConversationList}" drawable="messages" />
     <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
-    <item component="ComponentInfo{com.android.stk/.StkMain}" drawable="stk" />
 
     <!-- Apps -->
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
