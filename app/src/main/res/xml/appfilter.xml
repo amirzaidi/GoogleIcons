@@ -121,6 +121,21 @@
     <item component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}" drawable="files" />
     <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="files" />
     <item component="ComponentInfo{com.kodarkooperativet.blackplayerex/.activities.ViewPagerActivity}" drawable="phonograph" />
+    <item component="ComponentInfo{app.organicmaps/com.google.android.gms.common.api.GoogleApiActivity}" drawable="maps" />
+    <item component="ComponentInfo{com.fsck.k9/.activity.Accounts}" drawable="mail" />
+    <item component="ComponentInfo{eu.faircode.email/com.android.billingclient.api.ProxyBillingActivity}" drawable="mail" />
+    <item component="ComponentInfo{org.polymorphicshade.newpipe/org.schabi,newpipe.MainActivity}" drawable="youtube" />
+    <item component="ComponentInfo{org.schabi.newpipe/org.schabi,newpipe.MainActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.android.dots.android.app.activity.CurrentsStartActivity}" drawable="news" />
+    <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="news" />
+    <item component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}" drawable="fit" />
+    <item component="ComponentInfo{com.enjoyingfoss.feeel/io.flutter.embedding.android.FlutterActivity}" drawable="fit" />
+    <item component="ComponentInfo{org.polymorphicshade.newpipe/org.schabi,newpipe.MainActivity}" drawable="youtube" />
+    <item component="ComponentInfo{org.schabi.newpipe/org.schabi,newpipe.MainActivity}" drawable="youtube" />
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.android.dots.android.app.activity.CurrentsStartActivity}" drawable="news" />
+    <item component="ComponentInfo{co.appreactor.news/common.AppActivity}" drawable="news" />
+    <item component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AlllnOneActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}" drawable="tasks" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
